@@ -48,7 +48,7 @@ A HYZIS é uma empresa brasileira de engenharia de software. Construímos em Go,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyz-is/.github/main/profile/assets/stack-dark.svg" />
-  <img alt="Go, Arandu, Kyse, HTMX, TypeScript, Flutter, PyTorch, ONNX Runtime, TensorRT, Hugging Face, llama.cpp, MCP, PostgreSQL, Redis, SQLite, Docker, Linux, Cloudflare, GitHub Actions" src="https://raw.githubusercontent.com/hyz-is/.github/main/profile/assets/stack-light.svg" width="100%" />
+  <img alt="Go, Arandu, Kyse, HTMX, TypeScript, Flutter, PyTorch, ONNX Runtime, TensorRT, Hugging Face, llama.cpp, MCP, PostgreSQL, MySQL, MariaDB, Redis, Valkey, MongoDB, ClickHouse, ScyllaDB, Cassandra, Elasticsearch, TimescaleDB, CockroachDB, DuckDB, SQLite, Dokploy, Docker, Docker Swarm, Traefik, Nixpacks, Linux, Ubuntu, Debian, Cloudflare, Git, GitHub Actions" src="https://raw.githubusercontent.com/hyz-is/.github/main/profile/assets/stack-light.svg" width="100%" />
 </picture>
 
 [hyz.is](https://hyz.is) · HYZIS Serviços Digitais Ltda · Brasil
