@@ -27,7 +27,6 @@ A HYZIS é uma empresa brasileira de engenharia de software. Construímos em Go,
 | [arandu-tags](https://github.com/hyz-is/arandu-tags) | Taxonomias e tags de domínio por tenant |
 | [arandu-markdown](https://github.com/hyz-is/arandu-markdown) | Markdown com HTML sanitizado, sumário e tempo de leitura |
 | [arandu-swagger](https://github.com/hyz-is/arandu-swagger) | OpenAPI 3.1 gerado das rotas reais, com Swagger UI |
-| [arandu-webhook](https://github.com/hyz-is/arandu-webhook) | Webhooks assinados de saída e verificados de entrada |
 | [arandu-affiliate](https://github.com/hyz-is/arandu-affiliate) | Programa de afiliados com comissões multinível |
 | [arandu-br](https://github.com/hyz-is/arandu-br) · [arandu-viacep](https://github.com/hyz-is/arandu-viacep) | CPF, CNPJ, CEP, BRL e endereço a partir do CEP |
 
